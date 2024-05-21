@@ -6,9 +6,9 @@ Salut, je suis Soane Crespin, je suis étudiant a Limoges.
 J'étudie l'infomatique à l'IUT du Limousin.
 Je travail en se moment sur un projet de création d'appllication en java.
 
-Holà, soy Soane Crespin, un estudiante en Limoges, en France.
-Estudio el informatico en el IUT del Limousin.
-Trabajo en un prjecto dun application en java.
+Hola, soy Soane Crespin, un estudiante en Limoges, Francia.
+Estudio informática en el IUT del Limousin.
+Trabajo en un proyecto de una aplicación en Java.
 
 <!---
 SCrespin/SCrespin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
