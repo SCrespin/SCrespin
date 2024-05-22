@@ -10,6 +10,14 @@ Hola, soy Soane Crespin, un estudiante en Limoges, Francia.
 Estudio informática en el IUT del Limousin.
 Trabajo en un proyecto de una aplicación en Java.
 
+Hallo, Ich bin Crespin Soane, ich bin ein 
+
+
+Hard-skills :
+Passion : 
+Responsability :
+
+
 <!---
 SCrespin/SCrespin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
