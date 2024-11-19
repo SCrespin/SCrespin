@@ -10,6 +10,10 @@ Hola, soy Soane Crespin, un estudiante en Limoges, Francia.                     
 Estudio informática en el IUT del Limousin.
 Trabajo en un proyecto de una aplicación en Java.
 
+こんにちはソアンです
+私はだいがくせい
+リモジゥにすんでいます(フランス)
+日本語を学びます！
 
 
 Looking for an internship from April to June
