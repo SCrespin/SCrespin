@@ -16,8 +16,6 @@ Trabajo en un proyecto de una aplicación en Java.
 日本語を学びます！
 
 
-Looking for an internship from April to June
-
 Hard-skills : Java/HTML-CSS/PHP/SQL...
 Passions : Rugby, music, video games.
 Responsabilities : not yet :/
